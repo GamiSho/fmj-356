@@ -17,4 +17,8 @@ $ yarn start
 $ yarn generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## Bulma utility docs
+[jgthms/bulma_sass/utilities](https://github.com/jgthms/bulma/tree/master/sass/utilities)
+
+## TODO
+- [ ] Add: Dependabot

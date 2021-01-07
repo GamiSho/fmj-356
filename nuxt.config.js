@@ -1,4 +1,6 @@
 export default {
+  telemetry: false,
+
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
     title: 'fmj-356',
@@ -14,6 +16,7 @@ export default {
 
   // Global CSS (https://go.nuxtjs.dev/config-css)
   css: [
+    '~assets/styles/app.scss'
   ],
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
